@@ -1,1 +1,1 @@
-*.ipynb filter=lfs diff=lfs merge=lfs -text
+Mapa_Densidad_Peninsula.ipynb filter=lfs diff=lfs merge=lfs -text
